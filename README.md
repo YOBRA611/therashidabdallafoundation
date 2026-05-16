@@ -29,3 +29,33 @@ A premium, high-impact digital infrastructure engineered for the Rashid Abdalla 
 * **Brand Security Logic:** Configured to handle safe script parsing to prevent basic Cross-Site Scripting (XSS) in layout injection areas.
 
 ---
+
+## 📁 Repository Blueprint
+
+```text
+├── index.html              # Main production entry point & DOM layout
+├── CSS/                    # Custom stylesheets & brand typography rule layers
+├── JS/                     # Async state scripts & animation hooks
+├── Images/                 # Compressed, high-fidelity foundation visual assets
+└── README.md               # Repository technical documentation
+🔧 Local Setup & Verification
+To audit the source architecture or execute a local staging server:
+
+Clone the repository locally:
+
+Bash
+git clone [https://github.com/YOBRA611/therashidabdallafoundation.git](https://github.com/YOBRA611/therashidabdallafoundation.git)
+Navigate into the project directory:
+
+Bash
+cd therashidabdallafoundation
+Boot via any local web server configuration (or open index.html inside a standard modern browser).
+
+💼 Author & Engineering Profile
+This platform was developed by Brian Odhiambo, an engineering analyst specializing in high-performance web applications and rigorous software testing systems.
+
+Core Systems Portfolio: https://yobra611.github.io/portfolio/
+
+AI Ops & Quality Assurance Matrix: https://yobra611.github.io/Technical-Portfolio/
+
+Corporate Contact: brianodhia30@gmail.com
